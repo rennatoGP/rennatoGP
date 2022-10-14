@@ -2,7 +2,7 @@
 - 🌱 I’m studying system analysis and development
 - 👀 I’m interested in programação e tecnologia.
 - 🌱 I’m currently  Trabalhando com as Tecnológias HTML, CSS, JavaScript.
-- 💞️ I’m looking to collaborate on  em uma  pagina web.
+- 💞️ I’m looking to collaborate   em uma  pagina web.
 
 ## Minhas redes
 
